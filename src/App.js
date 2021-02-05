@@ -6,11 +6,11 @@ function App() {
     
 
      <div>
-    <h1>Salom</h1>
+      <h1>Salom</h1>
 
     
       <h1>hello</h1>
-   <div />
+    </div>
    
 
   );
